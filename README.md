@@ -1,5 +1,8 @@
 # hiring-coders
 
+## Aulas
+[React:](https://github.com/aarthurguedes/hiring-coders/tree/master/aulas/react/react-app) Aplicação em React usando também axios e styled-components, além de consumir API do GitHub. React Router e Hooks foram também utilizados nesta aplicação.
+
 ## Desafios
 [Desafio 01:](https://github.com/aarthurguedes/hiring-coders/tree/master/desafios/desafio-01/src) Construir uma landing page com 6 notícias sobre o COVID-19.  
 **Especificações:**
